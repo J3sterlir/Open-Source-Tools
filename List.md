@@ -30,3 +30,7 @@ A list of useful open source tools
   * [Icones](https://icones.js.org) (Free Icons)
   * [LogoIpsum](https://logoipsum.com) (Temporary Logos)
   * [GoogleFonts](https://fonts.google.com)
+
+
+---
+"The list is still incomplete; suggestions are highly appreciated" -JM.LRG
