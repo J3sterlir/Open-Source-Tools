@@ -15,6 +15,7 @@
 - **[Caesium Image Compressor](https://saerasoft.com/caesium/)** ([GitHub](https://github.com/Lymphatus/caesium-image-compressor/releases)) - Offline image compression tool.
 - **[Darktable](https://www.darktable.org/)** - An open-source photography workflow application and RAW developer, perfect for manual exposure calibration and non-destructive editing.
 - **[RawTherapee](https://www.rawtherapee.com/)** - A powerful, cross-platform raw image processing program.
+- **[Delphitools](https://delphi.tools)** - A collection of small, low stakes and low effort tools. No logins, no registration, no data collection. Everything runs locally in your browser.
 
 ## 🎵 Audio & Music
 - **[SpotBye](https://github.com/spotbye)** - Spotify ad-blocker and utility.
