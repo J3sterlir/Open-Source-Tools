@@ -1,8 +1,6 @@
-# Open-Source-Tools
-A list of useful open source tools
-
+# Open-Source-Tools (A list of useful open source tools)
 - [Open Source Tools. No Signups. Right in your browser](https://nosignups.net) (Definitive List Of Tools)
-
+---
 - Video
   * [CompressO Video Compression](https://compresso.codeforreal.com)
     +  [CompressO Github](https://github.com/codeforreal1/compressO/releases)
